@@ -1,0 +1,10 @@
+-- without stopcasting
+#showtooltip Shield Wall
+/cast Defensive Stance
+/cast Shield Wall
+
+-- with stopcasting
+#showtooltip Shield Wall
+/stopcasting
+/cast Defensive Stance
+/cast Shield Wall

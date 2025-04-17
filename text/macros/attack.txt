@@ -1,0 +1,2 @@
+#showtooltip 16
+/startattack

@@ -1,0 +1,4 @@
+#showtooltip Intercept
+/startattack
+/cast Berserker Stance
+/cast Intercept

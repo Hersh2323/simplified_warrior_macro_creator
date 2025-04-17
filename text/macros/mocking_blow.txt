@@ -1,0 +1,4 @@
+#showtooltip
+/starttack
+/cast Battle Stance
+/cast Mocking Blow

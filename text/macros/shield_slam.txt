@@ -1,0 +1,4 @@
+#showtooltip Shield Slam
+/startattack
+/cast Defensive Stance
+/cast Shield Slam

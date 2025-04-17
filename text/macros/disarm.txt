@@ -1,0 +1,10 @@
+-- includes startattack
+#showtooltip Disarm
+/startattack
+/cast Defensive Stance
+/cast Disarm
+
+-- does not include startattack
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm

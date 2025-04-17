@@ -1,0 +1,4 @@
+#showtooltip Overpower
+/startattack
+/cast Battle Stance
+/cast Overpower

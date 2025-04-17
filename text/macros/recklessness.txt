@@ -1,0 +1,4 @@
+#showtooltip Recklessness
+/startattack
+/cast Berserker Stance
+/cast Recklessness

@@ -1,0 +1,4 @@
+#showtooltip Retaliation
+/startattack
+/cast Battle Stance
+/cast Retaliation

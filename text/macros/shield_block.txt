@@ -1,0 +1,23 @@
+-- with stopcasting
+#showtooltip Shield Block
+/stopcasting
+/cast Defensive Stance
+/cast Shield Block
+
+-- with stopcasting and startattack
+#showtooltip Shield Block
+/stopcasting
+/startattack
+/cast Defensive Stance
+/cast Shield Block
+
+-- without stopcasting
+#showtooltip Shield Block
+/cast Defensive Stance
+/cast Shield Block
+
+-- without stopcasting with startattack
+#showtooltip Shield Block
+/startattack
+/cast Defensive Stance
+/cast Shield Block

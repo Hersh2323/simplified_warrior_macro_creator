@@ -1,0 +1,4 @@
+#showtooltip Revenge
+/startattack
+/cast Defensive Stance
+/cast Revenge

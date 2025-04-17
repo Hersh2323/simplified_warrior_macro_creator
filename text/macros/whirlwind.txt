@@ -1,0 +1,4 @@
+#showtooltip Whirlwind
+/startattack
+/cast Berserker Stance
+/cast Whirlwind

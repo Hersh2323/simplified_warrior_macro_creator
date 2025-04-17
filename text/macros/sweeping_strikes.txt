@@ -1,0 +1,4 @@
+#showtooltip Sweeping Strikes
+/startattack
+/cast Battle Stance
+/cast Sweeping Strikes

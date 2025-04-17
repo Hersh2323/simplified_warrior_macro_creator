@@ -1,0 +1,3 @@
+#showtooltip Mortal Strike
+/starttack
+/cast Mortal Strike

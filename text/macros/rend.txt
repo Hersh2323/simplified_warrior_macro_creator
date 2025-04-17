@@ -1,0 +1,3 @@
+#showtooltip Rend
+/startattack Rend
+/cast Rent

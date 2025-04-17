@@ -1,0 +1,10 @@
+-- charge with startattack
+#showtooltip charge
+/startattack
+/cast battle stance
+/cast charge
+
+-- charge without startattack
+#showtooltip charge
+/cast battle stance
+/cast charge

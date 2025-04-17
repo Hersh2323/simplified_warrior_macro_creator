@@ -1,0 +1,4 @@
+#showtooltip Thunder Clap
+/startattack
+/cast Battle Stance
+/cast Thunder Clap
