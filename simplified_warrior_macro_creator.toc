@@ -1,0 +1,11 @@
+## Interface: 11505
+## Title: simplified warrior macro creator
+## Notes: automatically creates weapon swap macros.
+## Author: Hersh
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+main.lua

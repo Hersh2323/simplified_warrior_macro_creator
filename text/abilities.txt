@@ -1,0 +1,82 @@
+[v1] strictly weapon swap macros
+[v2] includes basic commonly used warrior macros
+[v3] includes basic commonly used warrior macros, with gui to disable
+
+Attack
+  [v3][:A:] Basic start attack macro
+    for use at lower level when no rotational ability available
+Charge
+  [v2][:ch:] Basic battle stance + charge macro
+Hamstring
+  [v2][:h:] Basic /statattack + hamstring macro
+Heroic Strike
+  [v2][:hs:] Basic /startattack + heroic strike macro
+Mocking Blow
+  [v2][:mb:] Basic startattack, battle stance + mocking blow macro
+Mortal Strike
+  [v2][:ms:] Basic startattack, mortal strike macro
+Shield Slam
+  [v1][:ss:] startattack + equip shield + cast shield slam macro
+Overpower
+  [v2][:op:] startattack + battle stance + overpower macro
+Rend
+  [v2][:r:] startattack + rend macro
+Retaliation
+  [v2][:retal:] battle stance + Retaliation macro
+Sweeping Strikes
+  [v2][:sws:] startattack + battle stance + sweeping strikes macro 
+Thunder Clap
+  [v2][:tc:] startattack +  battle stance + thunder clap macro
+Berserker Rage
+  [v2][:ber:] berserker stance + berserker rage macro
+Challenging Shout
+Cleave
+  [v2][:c:] startattack + cleave macro 
+Demoralizing Shout
+Execute
+  [v2][:e:] startattack + execute macro
+Intercept
+  [v2][:i:] starttack + berserker stance + intercept macro
+Intimidating Shout
+Pummel
+  [v2][:p:] startattack + pummel macro
+Whirlwind
+  [v2][:ww:] starttack + berserker stance + whirlwind macro
+Bloodrage
+Defensive Stance
+Berserker Stance
+Battle Stance
+Disarm
+  [v2][:d:] startattack + defensive stance + disarm macro
+Revenge
+  [v2][:r:] startattack + defensive stance + revenge macro
+Shield Bash
+  [v1][:bsh:] startattack + equip 1h & shield + shield bash macro
+Shield Block
+  [v1][:sb:] equip 1h & shield + shield block macro
+  [v3][:sbx:] /stopcasting + equip 1h & shield + shield block macro
+Shield Wall
+  [v1][:sw:] /stopcasting + equip 1h & shield + shield wall
+  [v3][:swx:] equip 1h & shield + shield wall
+Sunder Armor
+  [v2][:sa:] /starttack + sunder armor macro
+Taunt
+  [v2][:t:] /starttack + taunt macro
+Concussion Blow
+  [v3][:cb:] /startattack + concussion blow macro
+Death Wish
+Slam
+Recklessness
+  [v2][:reck:] /starttack + berserker stance + recklessness macro
+equip 2h weapons
+  [v1][:2hw:] /stopcasting + equip 2h weapon
+equip dw weapons
+  [v1][:dww:] /stopcasting + equip 1h + 1h weapons
+equip 1h+Shield
+  [v1][:1hsw:] /stopcasting + equip 1h + shield
+set 2h
+  [v1][:2h:] user to defines which weapons are in 2h set
+set 1h1s
+  [v1][:1h1s:] user defines which 1h weapon + shield are used
+set dw
+  [v1][:dw:] user defines which dual wield weapons are used
