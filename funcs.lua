@@ -80,3 +80,10 @@ local function iGetMacroIndexByName(mname)
 		end
 	end
 end
+
+local function dprint(text_string)
+	local bDebug = false
+	if bDebug == true then
+		print(text_string)
+	end
+end
