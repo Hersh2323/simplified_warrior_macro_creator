@@ -1,4 +1,6 @@
 require("internals.lua")
+require("funcs.lua")
+
 local function simple_warrior_macro_config()
 	print("simple_warrior_macro_config() has executed!")
 
